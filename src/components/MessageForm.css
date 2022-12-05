@@ -21,8 +21,6 @@
 
 .incoming-message .message-inner {
     background-color: #848886;
-    display: flex;
-    justify-content: flex-end;
 }
 
 .incoming-message {
