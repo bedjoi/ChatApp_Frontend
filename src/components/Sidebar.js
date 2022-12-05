@@ -42,7 +42,7 @@ function Sidebar() {
     });
 
     function getRooms() {
-        fetch("http://localhost:8000/rooms")
+        fetch("https://jeantchat.onrender.com/rooms")
             .then((res) => res.json())
             .then((data) => setRooms(data));
     }
