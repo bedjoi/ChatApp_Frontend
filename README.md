@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+## Name of app
+jeanetchat
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+
+is the appe to discus with your team and friend!!!
+
 
 ## Available Scripts
 
