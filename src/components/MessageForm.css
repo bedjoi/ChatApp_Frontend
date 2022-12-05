@@ -14,18 +14,19 @@
     text-align: left;
     min-height: 80px;
     font: 400 1em, sans-serif;
-    display: inline-block;
+    display: flex;
+    justify-content: flex-end;
     border-radius: 10px;
-    background-color: #3a86dd;
+    background-color: #3a86dd91;
 }
 
 .incoming-message .message-inner {
-    background-color: #848886;
+    background-color: #7bbb9b9a;
 }
 
 .incoming-message {
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     margin-right: 20px;
 }
 
